@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: rgb(7, 30, 73);
+    }
+
+.heading  {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.paragraphst   {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.heading-but-smaller {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
